@@ -1,5 +1,5 @@
 # malloc
-A simple and thread-safe implementation of glibc function malloc(), free() and realloc().
+A simple implementation of glibc function malloc(), free() and realloc().
 
 Compiled as a shared library.
 
